@@ -13,3 +13,5 @@ Successfully deleted jimmy.txt
 [Mon-2026-05-04 09:11:51] RENAME: File cannot be renamed! jimmy2.txt already exists!
 Command doesn't exist. Supported commands are: create, delete, list and rename
 Command doesn't exist. Supported commands are: create, delete, list and rename
+[Thu-2026-05-07 09:55:54] DELETE: Successfully deleted jimmy2.txt
+[Thu-2026-05-07 09:56:44] DELETE: Successfully deleted jpraise.txt
